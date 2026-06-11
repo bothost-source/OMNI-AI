@@ -1,4 +1,4 @@
-# OMNI Bot
+# OMNI AI
 
 A secure WhatsApp AI bot with Flutter web dashboard — powered by Meta's official WhatsApp Business API.
 
